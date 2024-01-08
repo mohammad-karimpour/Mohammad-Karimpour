@@ -7,5 +7,26 @@
 
 
 
-vless://22cba0a7-f816-4dff-c7e9-58edb56fd365@supra.behtarin.store:7081/?type=tcp&path=%2F&host=bmw.com&headerType=http#Karimpour2
+محمد:
+کۆدی وڵات
+
+ژمارەی تەلەفۆن
+
+رقم التليفون
+
+الرقم الدولي
+
+Koda welatî
+
+jimare telefon
+
+.
+
+telefon numarası
+
+Ülke kodu
+
+Code postal
+
+numéro de téléphone
 
