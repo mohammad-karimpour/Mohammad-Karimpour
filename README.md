@@ -6,9 +6,13 @@
   <img src="https://img.shields.io/github/stars/mohammad-karimpour?label=Stars&style=social" alt="GitHub Stars">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+</p>
+
 ---
 
-## 🚀 درباره‌ی من
+## 🌟 **درباره‌ی من**
 - 🎯 **برنامه‌نویس و توسعه‌دهنده فول‌استک**
 - 💡 **علاقه‌مند به فناوری، هوش مصنوعی و پروژه‌های Open Source**
 - 📝 **مقالات و پروژه‌های جدید را در وبلاگم منتشر می‌کنم**
@@ -17,8 +21,12 @@
 
 ---
 
-## 📊 **آمارهای GitHub من**
+## 🏆 **جمله‌ای که بهش باور دارم**
+> "هر روز یک چیز جدید یاد بگیر، چون آینده متعلق به کسانی است که دانش را تصاحب می‌کنند."
 
+---
+
+## 📊 **آمارهای GitHub من**
 ### 🚀 **آمار کلی گیت‌هاب**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammad-karimpour&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
@@ -46,27 +54,24 @@
 
 ---
 
-## 💻 **مهارت‌ها و تکنولوژی‌ها**
-### 📌 زبان‌های برنامه‌نویسی  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## ⏳ **مدت زمان برنامه‌نویسی من**
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad-karimpour&layout=compact&theme=dracula)
 
-### ⚡ فریمورک‌ها و تکنولوژی‌ها  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+---
 
-### 🗄️ دیتابیس‌ها  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 💻 **در حال کار بر روی**
+- 🔥 توسعه یک **وب‌سایت شخصی جدید**
+- 🚀 کار روی **یک پروژه Open Source**
+- 📝 نوشتن **مقالات جدید درباره فناوری و برنامه‌نویسی**
 
-### 🔧 ابزارها  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+## 🎥 **آخرین ویدیوهای YouTube**
+<p align="center">
+  <a href="https://www.youtube.com/c/YOUR_CHANNEL">
+    <img src="https://github-readme-youtube-stats.vercel.app/api/video/latest?user=YOUR_YOUTUBE_USERNAME&theme=tokyonight" alt="Latest Videos" />
+  </a>
+</p>
 
 ---
 
@@ -85,6 +90,18 @@
 
 ---
 
+## ❓ **سوالات متداول (FAQ)**
+### ❔ از چه زبان‌های برنامه‌نویسی استفاده می‌کنی؟
+من بیشتر از **Python, JavaScript, TypeScript و C++** استفاده می‌کنم.
+
+### ❔ برای یادگیری برنامه‌نویسی چه پیشنهادی داری؟
+بهترین روش **پروژه‌محور** کار کردن و تمرین مستمره. کتاب، دوره‌های آنلاین و مستندات رسمی همیشه کمک می‌کنن!
+
+### ❔ چطور باهات تماس بگیرم؟
+تمام راه‌های ارتباطی در پایین صفحه موجوده! می‌تونی ایمیل بزنی یا توی لینکدین پیام بدی.
+
+---
+
 ## 🌍 **راه‌های ارتباطی با من**
 <p align="center">
   <a href="mailto:mohammad@example.com"><img src="https://img.shields.io/badge/Email-mohammad@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -96,5 +113,3 @@
 ---
 
 ⭐ **اگر این پروفایل را دوست داشتی، فراموش نکن که یک ستاره ⭐ به مخازن من بدهی!**
-
----
