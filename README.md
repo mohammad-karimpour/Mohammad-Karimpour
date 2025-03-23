@@ -59,10 +59,25 @@
 
 ---
 
-## 💻 **در حال کار بر روی**
-- 🔥 توسعه یک **وب‌سایت شخصی جدید**
-- 🚀 کار روی **یک پروژه Open Source**
-- 📝 نوشتن **مقالات جدید درباره فناوری و برنامه‌نویسی**
+## 💻 **مهارت‌ها و تکنولوژی‌ها**
+### 📌 زبان‌های برنامه‌نویسی  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚡ فریمورک‌ها و تکنولوژی‌ها  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ دیتابیس‌ها  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 ابزارها  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -92,7 +107,7 @@
 
 ## ❓ **سوالات متداول (FAQ)**
 ### ❔ از چه زبان‌های برنامه‌نویسی استفاده می‌کنی؟
-من بیشتر از **Python, JavaScript, TypeScript و C++** استفاده می‌کنم.
+من بیشتر از **Python, JavaScript و TypeScript** استفاده می‌کنم.
 
 ### ❔ برای یادگیری برنامه‌نویسی چه پیشنهادی داری؟
 بهترین روش **پروژه‌محور** کار کردن و تمرین مستمره. کتاب، دوره‌های آنلاین و مستندات رسمی همیشه کمک می‌کنن!
