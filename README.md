@@ -16,7 +16,7 @@
 - 🎯 **برنامه‌نویس و توسعه‌دهنده فول‌استک**
 - 💡 **علاقه‌مند به فناوری، هوش مصنوعی و پروژه‌های Open Source**
 - 📝 **مقالات و پروژه‌های جدید را در وبلاگم منتشر می‌کنم**
-- 🎵 **عاشق موسیقی و کدنویسی همزمان!**
+- 🎵 **عاشق چالش‌های جدید در برنامه‌نویسی**
 - 💬 **همیشه خوشحال می‌شم درباره‌ی پروژه‌های جدید گپ بزنم!**
 
 ---
@@ -54,11 +54,6 @@
 
 ---
 
-## ⏳ **مدت زمان برنامه‌نویسی من**
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad-karimpour&layout=compact&theme=dracula)
-
----
-
 ## 💻 **مهارت‌ها و تکنولوژی‌ها**
 ### 📌 زبان‌های برنامه‌نویسی  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,6 +63,7 @@
 ### ⚡ فریمورک‌ها و تکنولوژی‌ها  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ دیتابیس‌ها  
@@ -81,27 +77,15 @@
 
 ---
 
-## 🎥 **آخرین ویدیوهای YouTube**
-<p align="center">
-  <a href="https://www.youtube.com/c/YOUR_CHANNEL">
-    <img src="https://github-readme-youtube-stats.vercel.app/api/video/latest?user=YOUR_YOUTUBE_USERNAME&theme=tokyonight" alt="Latest Videos" />
-  </a>
-</p>
+## 🚀 **پروژه‌های برجسته**
+### 🔥 **1. [Awesome Project](https://github.com/mohammad-karimpour/awesome-project)**
+یک پروژه فوق‌العاده که با **Vue.js و Django** ساخته شده.
 
----
+### 🚀 **2. [My Portfolio](https://github.com/mohammad-karimpour/portfolio)**
+وب‌سایت شخصی من که با **Nuxt.js و Django** توسعه داده شده.
 
-## 🎵 **الآن دارم چی گوش می‌دم؟**
-<p align="center">
-  <a href="https://spotify.com/">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-## 📰 **آخرین مقالات یا پروژه‌های من**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🎯 **3. [Open Source API](https://github.com/mohammad-karimpour/open-api)**
+یک API رایگان و Open Source برای استفاده در پروژه‌های مختلف.
 
 ---
 
