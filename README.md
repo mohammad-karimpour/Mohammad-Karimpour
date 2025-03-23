@@ -1,8 +1,11 @@
 # 📌 نام پروژه شما
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/mohammad-karimpour/REPOSITORY)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mohamma-karimpour/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mohammad-karimpour/REPOSITORY?style=social)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-karimpour&layout=compact&theme=tokyonight)
 
 ## 🚀 معرفی  
 توضیح کوتاهی در مورد پروژه شما اینجا بنویسید.  
