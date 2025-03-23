@@ -1,4 +1,4 @@
-<h1 align="center">👋 سلام! من محمد کریم‌پور هستم</h1>
+<h1 align="center">👋 Hello! I'm Mohammad Karimpour</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammad-karimpour&color=blue" alt="Profile Views" />
@@ -12,96 +12,96 @@
 
 ---
 
-## 🌟 **درباره‌ی من**
-- 🎯 **برنامه‌نویس و توسعه‌دهنده فول‌استک**
-- 💡 **علاقه‌مند به فناوری، هوش مصنوعی و پروژه‌های Open Source**
-- 📝 **مقالات و پروژه‌های جدید را در وبلاگم منتشر می‌کنم**
-- 🎵 **عاشق چالش‌های جدید در برنامه‌نویسی**
-- 💬 **همیشه خوشحال می‌شم درباره‌ی پروژه‌های جدید گپ بزنم!**
+## 🌟 **About Me**
+- 🎯 **Full Stack Developer and Engineer**
+- 💡 **Passionate about technology, AI, and open-source projects**
+- 📝 **Writing articles and sharing new projects on my blog**
+- 🎵 **Love challenges and new projects in programming**
+- 💬 **Always happy to discuss new projects and ideas!**
 
 ---
 
-## 🏆 **جمله‌ای که بهش باور دارم**
-> "هر روز یک چیز جدید یاد بگیر، چون آینده متعلق به کسانی است که دانش را تصاحب می‌کنند."
+## 🏆 **A Quote I Live By**
+> "Learn something new every day, because the future belongs to those who embrace knowledge."
 
 ---
 
-## 📊 **آمارهای GitHub من**
-### 🚀 **آمار کلی گیت‌هاب**
+## 📊 **GitHub Stats**
+### 🚀 **Overall Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammad-karimpour&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 📌 **نمودار فعالیت‌های اخیر**
+### 📌 **Recent Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-karimpour&theme=react" alt="GitHub Activity Graph" />
 </p>
 
-### 🔥 **استریک‌های روزانه**
+### 🔥 **GitHub Streak**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-karimpour&theme=dark" alt="GitHub Streak" />
 </p>
 
-### 🎨 **بیشترین زبان‌های استفاده‌شده**
+### 🎨 **Top Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-karimpour&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 🏆 **مدال‌های گیت‌هاب**
+### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohammad-karimpour&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 💻 **مهارت‌ها و تکنولوژی‌ها**
-### 📌 زبان‌های برنامه‌نویسی  
+## 💻 **Skills and Technologies**
+### 📌 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚡ فریمورک‌ها و تکنولوژی‌ها  
+### ⚡ Frameworks and Technologies  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ دیتابیس‌ها  
+### 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 ابزارها  
+### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 **پروژه‌های برجسته**
+## 🚀 **Featured Projects**
 ### 🔥 **1. [Awesome Project](https://github.com/mohammad-karimpour/awesome-project)**
-یک پروژه فوق‌العاده که با **Vue.js و Django** ساخته شده.
+An amazing project built using **Vue.js and Django**.
 
 ### 🚀 **2. [My Portfolio](https://github.com/mohammad-karimpour/portfolio)**
-وب‌سایت شخصی من که با **Nuxt.js و Django** توسعه داده شده.
+My personal website developed with **Nuxt.js and Django**.
 
 ### 🎯 **3. [Open Source API](https://github.com/mohammad-karimpour/open-api)**
-یک API رایگان و Open Source برای استفاده در پروژه‌های مختلف.
+A free, open-source API for use in different projects.
 
 ---
 
-## ❓ **سوالات متداول (FAQ)**
-### ❔ از چه زبان‌های برنامه‌نویسی استفاده می‌کنی؟
-من بیشتر از **Python, JavaScript و TypeScript** استفاده می‌کنم.
+## ❓ **FAQ**
+### ❔ What programming languages do you use?
+I mostly work with **Python, JavaScript, and TypeScript**.
 
-### ❔ برای یادگیری برنامه‌نویسی چه پیشنهادی داری؟
-بهترین روش **پروژه‌محور** کار کردن و تمرین مستمره. کتاب، دوره‌های آنلاین و مستندات رسمی همیشه کمک می‌کنن!
+### ❔ What advice do you have for learning programming?
+The best way to learn is by **working on projects** and practicing regularly. Books, online courses, and official documentation are always helpful!
 
-### ❔ چطور باهات تماس بگیرم؟
-تمام راه‌های ارتباطی در پایین صفحه موجوده! می‌تونی ایمیل بزنی یا توی لینکدین پیام بدی.
+### ❔ How can I contact you?
+All the ways to contact me are listed below! Feel free to email me or message me on LinkedIn.
 
 ---
 
-## 🌍 **راه‌های ارتباطی با من**
+## 🌍 **Contact Me**
 <p align="center">
   <a href="mailto:mohammad@example.com"><img src="https://img.shields.io/badge/Email-mohammad@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohammad-karimpour/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -111,4 +111,4 @@
 
 ---
 
-⭐ **اگر این پروفایل را دوست داشتی، فراموش نکن که یک ستاره ⭐ به مخازن من بدهی!**
+⭐ **If you liked this profile, don't forget to star my repositories!**
