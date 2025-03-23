@@ -1,6 +1,23 @@
-<p align="center" ><img height="200" width="200" src="https://avatars.githubusercontent.com/u/125831788?s=200&v=4"/></p>
-<h1 align="center">MAZWAR</h1>
-<p>Mazwar for the development of technology and AI✨</p>
-<p  dir="ltr">مەزوار بۆ پەرەپێدانی تەکنەلۆجیا و زیرەکی دەستکرد</p>
-<p  dir="ltr">مازوار لتطوير التكنولوجيا والذكاء الاصطناعي</p>
-<p  dir="ltr">مازوار برای توسعه تکنولوژی و هوش مصنوعی</p>
+# 📌 نام پروژه شما
+
+![GitHub repo size](https://img.shields.io/github/repo-size/mohammad-karimpour/REPOSITORY)
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)
+
+## 🚀 معرفی  
+توضیح کوتاهی در مورد پروژه شما اینجا بنویسید.  
+
+## 📷 پیش‌نمایش  
+(می‌توانید تصاویر یا گیف‌های مربوط به پروژه را اینجا اضافه کنید.)  
+
+## 🔧 نصب و اجرا  
+
+```bash
+# کلون کردن مخزن
+git clone https://github.com/USERNAME/REPOSITORY.git
+
+# ورود به پوشه پروژه
+cd REPOSITORY
+
+# نصب وابستگی‌ها
+npm install  # یا pip install -r requirements.txt
