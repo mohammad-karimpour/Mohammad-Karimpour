@@ -20,7 +20,7 @@
 ## 📊 **GitHub Stats**
 ### 🚀 **Overall Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-karimpour&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-karimpour&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 ### 📌 **Recent Activity Graph**
