@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammad-karimpour&color=yellow" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohammad-karimpour?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/mohammad-karimpour?label=Stars&style=social" alt="GitHub Stars">
+  ![GitHub Public Repos](https://img.shields.io/github/repos/mohammad-karimpour?label=Public%20Repos&style=social)
+
 </p>
 
 <p align="center">
