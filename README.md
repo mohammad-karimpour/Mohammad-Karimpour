@@ -82,7 +82,7 @@ A free, open-source API for use in different projects.
 
 ## 🌍 **Contact Me**
 <p align="center">
-  <a href="mailto:mohammad@example.com"><img src="https://img.shields.io/badge/Email-mohammad@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mohammad.karimpour1383@gmail.com"><img src="https://img.shields.io/badge/Email-mohammad@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohammad-karimpour/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
