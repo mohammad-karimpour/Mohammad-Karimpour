@@ -68,6 +68,18 @@
 
 ---
 
+## 🏢 **Organizations**
+<p align="center">
+  <a href="https://github.com/mazwarr">
+    <img src="https://img.shields.io/badge/GitHub-Your%20Organization-blue?style=for-the-badge&logo=github" alt="Organization 1">
+  </a>
+  <a href="https://github.com/YOUR_SECOND_ORG">
+    <img src="https://img.shields.io/badge/GitHub-Second%20Org-green?style=for-the-badge&logo=github" alt="Organization 2">
+  </a>
+</p>
+
+---
+
 ## 🚀 **Featured Projects**
 ### 🔥 **1. [Awesome Project](https://github.com/mohammad-karimpour/awesome-project)**
 An amazing project built using **Vue.js and Django**.
@@ -82,7 +94,7 @@ A free, open-source API for use in different projects.
 
 ## 🌍 **Contact Me**
 <p align="center">
-  <a href="mailto:mohammad.karimpour1383@gmail.com"><img src="https://img.shields.io/badge/Email-mohammad@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mohammad.karimpour1383@gmail.com"><img src="https://img.shields.io/badge/Email-mohammad.karimpour1383@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohammad-karimpour/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
