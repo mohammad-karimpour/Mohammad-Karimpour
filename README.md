@@ -12,15 +12,6 @@
 
 ---
 
-## 🌟 **About Me**
-- 🎯 **Full Stack Developer and Engineer**
-- 💡 **Passionate about technology, AI, and open-source projects**
-- 📝 **Writing articles and sharing new projects on my blog**
-- 🎵 **Love challenges and new projects in programming**
-- 💬 **Always happy to discuss new projects and ideas!**
-
----
-
 ## 🏆 **A Quote I Live By**
 > "Learn something new every day, because the future belongs to those who embrace knowledge."
 
@@ -86,18 +77,6 @@ My personal website developed with **Nuxt.js and Django**.
 
 ### 🎯 **3. [Open Source API](https://github.com/mohammad-karimpour/open-api)**
 A free, open-source API for use in different projects.
-
----
-
-## ❓ **FAQ**
-### ❔ What programming languages do you use?
-I mostly work with **Python, JavaScript, and TypeScript**.
-
-### ❔ What advice do you have for learning programming?
-The best way to learn is by **working on projects** and practicing regularly. Books, online courses, and official documentation are always helpful!
-
-### ❔ How can I contact you?
-All the ways to contact me are listed below! Feel free to email me or message me on LinkedIn.
 
 ---
 
