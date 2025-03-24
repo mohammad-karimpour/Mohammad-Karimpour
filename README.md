@@ -35,7 +35,7 @@
 
 ### 🎨 **Top Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-karimpour&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-karimpour&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🏆 **GitHub Trophies**
@@ -84,8 +84,6 @@ A free, open-source API for use in different projects.
 <p align="center">
   <a href="mailto:mohammad@example.com"><img src="https://img.shields.io/badge/Email-mohammad@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohammad-karimpour/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/mohammad_karimpour"><img src="https://img.shields.io/badge/Twitter-@mohammad_karimpour-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://mohammad-karimpour.com"><img src="https://img.shields.io/badge/Website-mohammad--karimpour.com-green?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
