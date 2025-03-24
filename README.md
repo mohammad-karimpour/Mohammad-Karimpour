@@ -73,7 +73,7 @@
   <a href="https://github.com/mazwarr">
     <img src="https://img.shields.io/badge/GitHub-Your%20Organization-blue?style=for-the-badge&logo=github" alt="Organization 1">
   </a>
-  <a href="https://github.com/YOUR_SECOND_ORG">
+  <a href="https://github.com/mazwar">
     <img src="https://img.shields.io/badge/GitHub-Second%20Org-green?style=for-the-badge&logo=github" alt="Organization 2">
   </a>
 </p>
@@ -95,7 +95,7 @@ A free, open-source API for use in different projects.
 ## 🌍 **Contact Me**
 <p align="center">
   <a href="mailto:mohammad.karimpour1383@gmail.com"><img src="https://img.shields.io/badge/Email-mohammad.karimpour1383@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mohammad-karimpour/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammed-karimpour-801782223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
