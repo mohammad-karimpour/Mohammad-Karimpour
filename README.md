@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammad-karimpour&color=yellow" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohammad-karimpour?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/repos/mohammad-karimpour?label=Public%20Repos&logo=github&style=social" alt="GitHub Public Repos">
-
 </p>
 
 <p align="center">
@@ -14,7 +12,7 @@
 ---
 
 ## 🏆 **A Quote I Live By**
-> "Learn something new every day, because the future belongs to those who embrace knowledge."
+> "Learn something new every day, because the future belongs to those who embrace knowledge. Also, believe in the One God and seek His help."
 
 ---
 
@@ -34,7 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-karimpour&theme=dark" alt="GitHub Streak" />
 </p>
 
-### 🎨 **Top Used Languages**
+###  ✨ **Top Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-karimpour&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -59,49 +57,49 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/Django%20Rest-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
 
 ### 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-22B7B6?style=for-the-badge&logo=cpanel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+
+
 
 ---
 
 ## 🏢 **Organizations**
+> Owner and CEO of Mazwar Technology Company.
 <p align="center">
   <a href="https://github.com/mazwarr">
-    <img src="https://img.shields.io/badge/GitHub-Your%20Organization-blue?style=for-the-badge&logo=github" alt="Organization 1">
+    <img src="https://img.shields.io/badge/Company-Mazwar-red?style=for-the-badge&logo=macys" alt="Mazwar">
   </a>
-  <a href="https://github.com/mazwar">
-    <img src="https://img.shields.io/badge/GitHub-Second%20Org-green?style=for-the-badge&logo=github" alt="Organization 2">
-  </a>
+
 </p>
 
 ---
 
-## 🚀 **Featured Projects**
-### 🔥 **1. [Awesome Project](https://github.com/mohammad-karimpour/awesome-project)**
-An amazing project built using **Vue.js and Django**.
-
-### 🚀 **2. [My Portfolio](https://github.com/mohammad-karimpour/portfolio)**
-My personal website developed with **Nuxt.js and Django**.
-
-### 🎯 **3. [Open Source API](https://github.com/mohammad-karimpour/open-api)**
-A free, open-source API for use in different projects.
-
----
 
 ## 🌍 **Contact Me**
 <p align="center">
   <a href="mailto:mohammad.karimpour1383@gmail.com"><img src="https://img.shields.io/badge/Email-mohammad.karimpour1383@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mohammed-karimpour-801782223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammed-karimpour-801782223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Karimpour-blue?style=for-the-badge&logo=invision&logoColor=white"></a>
 </p>
 
 ---
 
-⭐ **If you liked this profile, don't forget to star my repositories!**
+⭐ **I have some cool cheat sheets in my repositories that you can use!** ⭐
