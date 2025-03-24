@@ -20,7 +20,7 @@
 ## 📊 **GitHub Stats**
 ### 🚀 **Overall Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-karimpour&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-karimpour&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ### 📌 **Recent Activity Graph**
@@ -35,7 +35,7 @@
 
 ### 🎨 **Top Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-karimpour&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-karimpour&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ### 🏆 **GitHub Trophies**
